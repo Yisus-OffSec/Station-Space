@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 9a2779768f112a945b3793ce2d57a1a5
+timeCreated: 1455835569
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: inst_HyperNURBS_Instance_10_dunes10
+    100004: inst_HyperNURBS_Instance_11_dunes8
+    100006: inst_HyperNURBS_Instance_12_dunes2
+    100008: inst_HyperNURBS_Instance_13_dunes1
+    100010: inst_HyperNURBS_Instance_1_dunes4
+    100012: inst_HyperNURBS_Instance_2_dunes5
+    100014: inst_HyperNURBS_Instance_3_dunes6
+    100016: inst_HyperNURBS_Instance_4_dunes7
+    100018: inst_HyperNURBS_Instance_5_dunes9
+    100020: inst_HyperNURBS_Instance_6_dunes11
+    100022: inst_HyperNURBS_Instance_7_dunes13
+    100024: inst_HyperNURBS_Instance_8_dunes14
+    100026: inst_HyperNURBS_Instance_9_dunes12
+    100028: inst_HyperNURBS_Instance_dunes3
+    100030: Subdivisi_n_Superficie_dunes
+    400000: //RootNode
+    400002: inst_HyperNURBS_Instance_10_dunes10
+    400004: inst_HyperNURBS_Instance_11_dunes8
+    400006: inst_HyperNURBS_Instance_12_dunes2
+    400008: inst_HyperNURBS_Instance_13_dunes1
+    400010: inst_HyperNURBS_Instance_1_dunes4
+    400012: inst_HyperNURBS_Instance_2_dunes5
+    400014: inst_HyperNURBS_Instance_3_dunes6
+    400016: inst_HyperNURBS_Instance_4_dunes7
+    400018: inst_HyperNURBS_Instance_5_dunes9
+    400020: inst_HyperNURBS_Instance_6_dunes11
+    400022: inst_HyperNURBS_Instance_7_dunes13
+    400024: inst_HyperNURBS_Instance_8_dunes14
+    400026: inst_HyperNURBS_Instance_9_dunes12
+    400028: inst_HyperNURBS_Instance_dunes3
+    400030: Subdivisi_n_Superficie_dunes
+    2300000: inst_HyperNURBS_Instance_10_dunes10
+    2300002: inst_HyperNURBS_Instance_11_dunes8
+    2300004: inst_HyperNURBS_Instance_12_dunes2
+    2300006: inst_HyperNURBS_Instance_13_dunes1
+    2300008: inst_HyperNURBS_Instance_1_dunes4
+    2300010: inst_HyperNURBS_Instance_2_dunes5
+    2300012: inst_HyperNURBS_Instance_3_dunes6
+    2300014: inst_HyperNURBS_Instance_4_dunes7
+    2300016: inst_HyperNURBS_Instance_5_dunes9
+    2300018: inst_HyperNURBS_Instance_6_dunes11
+    2300020: inst_HyperNURBS_Instance_7_dunes13
+    2300022: inst_HyperNURBS_Instance_8_dunes14
+    2300024: inst_HyperNURBS_Instance_9_dunes12
+    2300026: inst_HyperNURBS_Instance_dunes3
+    2300028: Subdivisi_n_Superficie_dunes
+    3300000: inst_HyperNURBS_Instance_10_dunes10
+    3300002: inst_HyperNURBS_Instance_11_dunes8
+    3300004: inst_HyperNURBS_Instance_12_dunes2
+    3300006: inst_HyperNURBS_Instance_13_dunes1
+    3300008: inst_HyperNURBS_Instance_1_dunes4
+    3300010: inst_HyperNURBS_Instance_2_dunes5
+    3300012: inst_HyperNURBS_Instance_3_dunes6
+    3300014: inst_HyperNURBS_Instance_4_dunes7
+    3300016: inst_HyperNURBS_Instance_5_dunes9
+    3300018: inst_HyperNURBS_Instance_6_dunes11
+    3300020: inst_HyperNURBS_Instance_7_dunes13
+    3300022: inst_HyperNURBS_Instance_8_dunes14
+    3300024: inst_HyperNURBS_Instance_9_dunes12
+    3300026: inst_HyperNURBS_Instance_dunes3
+    3300028: Subdivisi_n_Superficie_dunes
+    4300000: inst_HyperNURBS_Instance_10_dunes10
+    4300002: inst_HyperNURBS_Instance_11_dunes8
+    4300004: inst_HyperNURBS_Instance_12_dunes2
+    4300006: inst_HyperNURBS_Instance_13_dunes1
+    4300008: inst_HyperNURBS_Instance_1_dunes4
+    4300010: inst_HyperNURBS_Instance_2_dunes5
+    4300012: inst_HyperNURBS_Instance_3_dunes6
+    4300014: inst_HyperNURBS_Instance_4_dunes7
+    4300016: inst_HyperNURBS_Instance_5_dunes9
+    4300018: inst_HyperNURBS_Instance_6_dunes11
+    4300020: inst_HyperNURBS_Instance_7_dunes13
+    4300022: inst_HyperNURBS_Instance_8_dunes14
+    4300024: inst_HyperNURBS_Instance_9_dunes12
+    4300026: inst_HyperNURBS_Instance_dunes3
+    4300028: Subdivisi_n_Superficie_dunes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
